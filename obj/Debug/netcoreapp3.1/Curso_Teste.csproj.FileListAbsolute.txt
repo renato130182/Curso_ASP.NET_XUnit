@@ -239,3 +239,6 @@ C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\bin\Debug\netcoreapp3.1\Moq
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\obj\Debug\netcoreapp3.1\Curso_Teste.dll
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\obj\Debug\netcoreapp3.1\Curso_Teste.pdb
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\bin\Debug\netcoreapp3.1\CursoAPI.StaticWebAssets.xml
+C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.CursoDotNetMVC - Web Deploy.json
+C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Ususario\source\repos\Curso_MVC\Curso_Teste\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
